@@ -16,7 +16,7 @@ export const TableHeader = styled.thead`
   font-size: 24px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #03bdd5;
+  background-color: #91caaf;
   color: #ffffff;
 `;
 
@@ -33,7 +33,7 @@ export const ColumnTitle = styled.th`
 export const TableRow = styled.tr`
   font-weight: 400;
   font-size: 22px;
-  background-color: #ececec;
+  background-color: #d6ebe1;
   &:nth-child(odd) {
     background-color: white;
   }

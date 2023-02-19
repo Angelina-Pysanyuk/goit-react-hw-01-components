@@ -17,6 +17,7 @@ export const App = () => {
         alignItems: 'center',
         paddingTop: '30px',
         paddingBottom: '30px',
+        backgroundColor: '#E8E8E8',
         fontSize: 20,
         color: '#010101',
       }}
